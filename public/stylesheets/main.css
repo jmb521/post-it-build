@@ -81,6 +81,16 @@
     margin-top: 20px;
     padding-top: 20px;
   }
+
+  div.login {
+    margin: 0 auto;
+    width: 180px;
+    height: auto;
+  }
+
+  div.login input {
+    width: 175px;
+  }
 }
 
 @media screen and (max-width: 600px) {
